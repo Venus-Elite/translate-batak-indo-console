@@ -1,0 +1,140 @@
+------------------------------------
+Data Translasi Kalimat
+------------------------------------
+INDO : aku makan donat
+BATAK : au mangalang donat
+
+UNIQUE : 1
+-----------------------------------------------
+
+INDO : aku pergi kesawah
+BATAK : au borhat tu sabah
+
+UNIQUE : 2
+-----------------------------------------------
+
+INDO : permainan yang menyenangkan
+BATAK : meam meam na tabo
+
+UNIQUE : 3
+-----------------------------------------------
+
+INDO : fajar menyingsing
+BATAK : manogot na tiur
+
+UNIQUE : 4
+-----------------------------------------------
+
+INDO : keteledoran seorang mahasiswa
+BATAK : haleleton sahalak parsiajar
+
+UNIQUE : 5
+-----------------------------------------------
+
+INDO : terlambat bangun
+BATAK : lelet dungo
+
+UNIQUE : 6
+-----------------------------------------------
+
+INDO : saya suka bahasa c
+BATAK : au lomo bahasa c
+
+UNIQUE : 7
+-----------------------------------------------
+
+INDO : sejarah pemrograman
+BATAK : sejarah ni pemrograman
+
+UNIQUE : 8
+-----------------------------------------------
+
+INDO : competetive programming
+BATAK : competetive programming
+
+UNIQUE : 9
+-----------------------------------------------
+
+INDO : kemenangan yang tertunda
+BATAK : hamonangan na gagal di dapot
+
+UNIQUE : 10
+-----------------------------------------------
+
+INDO : terbangun dari tidur
+BATAK : dungo sian hapodoman
+
+UNIQUE : 11
+-----------------------------------------------
+
+INDO : malam hari
+BATAK : golap ari
+
+UNIQUE : 12
+-----------------------------------------------
+
+INDO : sore hari
+BATAK : sore ari
+
+UNIQUE : 13
+-----------------------------------------------
+
+INDO : pagi hari
+BATAK : manogot ari
+
+UNIQUE : 14
+-----------------------------------------------
+
+INDO : bodoh kali
+BATAK : loakon situtu
+UNIQUE : 17
+-----------------------------------------------
+
+INDO : kemenangan yang tertunda
+BATAK : hamonangan na gagal di dapot
+
+UNIQUE : 10
+-----------------------------------------------
+
+INDO : saya suka bahasa c
+BATAK : au lomo bahasa c
+
+UNIQUE : 7
+-----------------------------------------------
+
+INDO : aku makan donat
+BATAK : au mangalang donat
+
+UNIQUE : 1
+-----------------------------------------------
+
+INDO : fajar menyingsing
+BATAK : manogot na tiur
+
+UNIQUE : 4
+-----------------------------------------------
+
+INDO : saya suka bahasa c
+BATAK : au lomo bahasa c
+
+UNIQUE : 7
+-----------------------------------------------
+
+INDO : competetive programming
+BATAK : competetive programming
+
+UNIQUE : 9
+-----------------------------------------------
+
+INDO : saya suka bahasa c
+BATAK : au lomo bahasa c
+
+UNIQUE : 7
+-----------------------------------------------
+
+INDO : saya suka bahasa c
+BATAK : au lomo bahasa c
+
+UNIQUE : 7
+-----------------------------------------------
+

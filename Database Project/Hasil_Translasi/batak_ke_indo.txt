@@ -1,0 +1,7 @@
+------------------------------------
+BATAK|INDO|UniqueKey|PanjangKata
+------------------------------------
+au	aku	21	2
+au	aku	21	1
+hita	kita	563	3
+hami	kami	562	3
